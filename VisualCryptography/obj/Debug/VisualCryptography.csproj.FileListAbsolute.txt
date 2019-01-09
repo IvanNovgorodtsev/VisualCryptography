@@ -1,0 +1,10 @@
+C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.exe.config
+C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.exe
+C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.pdb
+C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csprojAssemblyReference.cache
+C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.Form1.resources
+C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.Properties.Resources.resources
+C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csproj.GenerateResource.cache
+C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csproj.CoreCompileInputs.cache
+C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.exe
+C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.pdb
