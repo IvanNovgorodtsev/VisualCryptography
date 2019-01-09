@@ -8,3 +8,13 @@ C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\De
 C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csproj.CoreCompileInputs.cache
 C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.exe
 C:\Users\inovgorodtsev\source\repos\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.pdb
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.exe.config
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.exe
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.pdb
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csprojAssemblyReference.cache
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.Form1.resources
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.Properties.Resources.resources
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csproj.GenerateResource.cache
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csproj.CoreCompileInputs.cache
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.exe
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.pdb

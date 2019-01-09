@@ -1,0 +1,9 @@
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\bin\Release\VisualCryptography.exe.config
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\bin\Release\VisualCryptography.exe
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\bin\Release\VisualCryptography.pdb
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Release\VisualCryptography.Form1.resources
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Release\VisualCryptography.Properties.Resources.resources
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Release\VisualCryptography.csproj.GenerateResource.cache
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Release\VisualCryptography.csproj.CoreCompileInputs.cache
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Release\VisualCryptography.exe
+A:\Politechnika Poznanska\SEMESTR V\Podstawy Ochrony Danych - lab\VisualCryptography\VisualCryptography\obj\Release\VisualCryptography.pdb
