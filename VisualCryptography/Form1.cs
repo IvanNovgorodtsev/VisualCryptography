@@ -38,7 +38,7 @@ namespace VisualCryptography
 
             OpenFileDialog openFileDialog1 = new OpenFileDialog
             {
-                InitialDirectory = @"C:\Users\inovgorodtsev\source\repos\VisualCryptography-master",
+                InitialDirectory = @"C:",
                 Title = "Browse Image Files",
                 CheckFileExists = true,
                 CheckPathExists = true,
@@ -51,7 +51,6 @@ namespace VisualCryptography
                 original = new Bitmap(textBox1.Text);
             }
         }
-
         private void button1_Click_1(object sender, EventArgs e)
         {
             output1 = new Bitmap(original.Width * 2, original.Height * 2);
@@ -83,38 +82,11 @@ namespace VisualCryptography
                             output2.SetPixel(i * 2 + 1, j * 2, patterns[choice[1]][1]);
                             output2.SetPixel(i * 2, j * 2 + 1, patterns[choice[2]][2]);
                             output2.SetPixel(i * 2 + 1, j * 2 + 1, patterns[choice[3]][3]);
-                        }
-
-                        //if (color.GetBrightness() == 1) // If it's white
-                        //{
-                        //    output1.SetPixel(i * 2, j * 2, patterns[choice[0]][0]);
-                        //    output1.SetPixel(i * 2 + 1, j * 2, patterns[choice[1]][1]);
-                        //    output1.SetPixel(i * 2, j * 2 + 1, patterns[choice[2]][2]);
-                        //    output1.SetPixel(i * 2 + 1, j * 2 + 1, patterns[choice[3]][3]);
-
-                        //    output2.SetPixel(i * 2, j * 2, patterns[choice[0]][0]);
-                        //    output2.SetPixel(i * 2 + 1, j * 2, patterns[choice[1]][1]);
-                        //    output2.SetPixel(i * 2, j * 2 + 1, patterns[choice[2]][2]);
-                        //    output2.SetPixel(i * 2 + 1, j * 2 + 1, patterns[choice[3]][3]);
-                        //}
-                        //if (color.GetBrightness()!=0) // If it's black
-                        //{
-
-                        //    output1.SetPixel(i * 2, j * 2, patterns[Math.Abs(choice[0]-5)][0]);
-                        //    output1.SetPixel(i * 2 + 1, j * 2, patterns[Math.Abs(choice[1]-5)][1]);
-                        //    output1.SetPixel(i * 2, j * 2 + 1, patterns[Math.Abs(choice[2]-5)][2]);
-                        //    output1.SetPixel(i * 2 + 1, j * 2 + 1, patterns[Math.Abs(choice[3]-5)][3]);
-
-                        //    output2.SetPixel(i * 2, j * 2, patterns[choice[0]][0]);
-                        //    output2.SetPixel(i * 2 + 1, j * 2, patterns[choice[1]][1]);
-                        //    output2.SetPixel(i * 2, j * 2 + 1, patterns[choice[2]][2]);
-                        //    output2.SetPixel(i * 2 + 1, j * 2 + 1, patterns[choice[3]][3]);
-                        //}                       
+                        }                       
                     }
             }
             output1.Save("output1.png");
             output2.Save("output2.png");
-            original.Save("wtf.png");
         }
     }
 }
